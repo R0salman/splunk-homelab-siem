@@ -29,7 +29,7 @@ This project simulates a mini SOC environment, highlighting my proficiency in de
 
 This section illustrates the robust architecture I implemented for end-to-end security monitoring.
 
-![Architecture Diagram](./imgs/architecture.png)
+<img src="imgs/Architecture-digram.png" alt="Architecture Diagram" width="400"/>
 
 ---
 
@@ -53,7 +53,7 @@ This section illustrates the robust architecture I implemented for end-to-end se
 
 Implemented alert rules and severity classification to identify and prioritize critical threats.
 
-![Detection Logic](./imgs/detection_logic.png)
+![Detection Logic](imgs/Alerts-screenshot.png)
 
 ---
 
