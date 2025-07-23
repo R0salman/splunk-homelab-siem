@@ -1,6 +1,5 @@
 # Splunk SOC Lab: Ubuntu Server & Kali Linux Simulation
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/salman-al-mutairi-305s/) [![Project Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](https://github.com/R0salman/splunk-homelab-siem) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-##  Project Overview
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/salman-al-mutairi-305s/) [![Project Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](https://github.com/R0salman/splunk-homelab-siem)
 
 This repository demonstrates my practical expertise in Security Operations Center (SOC) methodologies and Splunk Enterprise. It outlines the successful design, implementation, and analysis within a simulated lab environment, showcasing capabilities in:
 
